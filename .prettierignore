@@ -1,0 +1,16 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore build output
+/dist/
+/build/
+
+# Ignore configuration files
+*.config.js
+*.rc.js
+
+# Ignore specific files or directories
+src/some-folder-to-ignore/
+
+# Ignore all markdown files (optional)
+*.md
